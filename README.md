@@ -16,16 +16,7 @@
 
 **언론 보도**: [강원대 컴퓨터공학과 손동주 학생, 'AI 민원 분류 시스템' 개발](https://www.veritas-a.com/news/articleView.html?idxno=531813)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=semanticweb&logoColor=white)
-![Azure Cloud](https://img.shields.io/badge/Azure%20Cloud-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
-![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat&logo=openai&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0A192F?style=flat&logo=chainlink&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![전자정부프레임워크](https://img.shields.io/badge/eGovFrame-005BAC?style=flat&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=semanticweb&logoColor=white) ![Azure Cloud](https://img.shields.io/badge/Azure%20Cloud-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat&logo=openai&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-0A192F?style=flat&logo=chainlink&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![전자정부프레임워크](https://img.shields.io/badge/eGovFrame-005BAC?style=flat&logoColor=white)
 
 
 
