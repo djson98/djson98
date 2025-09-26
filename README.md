@@ -1,6 +1,5 @@
-# Hello! 👋
 
-## Major Projects
+## Projects
 
 ### Kangwon National University AI Complaint Classification System
 - **Automated classification and routing 100+ daily complaints**
