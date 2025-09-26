@@ -16,7 +16,7 @@
 
 **언론 보도**: [강원대 컴퓨터공학과 손동주 학생, 'AI 민원 분류 시스템' 개발](https://www.veritas-a.com/news/articleView.html?idxno=531813)
 
- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=semanticweb&logoColor=white) ![Azure Cloud](https://img.shields.io/badge/Azure%20Cloud-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat&logo=openai&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-0A192F?style=flat&logo=chainlink&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![전자정부프레임워크](https://img.shields.io/badge/eGovFrame-005BAC?style=flat&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-FFE4E1?style=for-the-badge&logo=python&logoColor=FF6B6B) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFF0F5?style=for-the-badge&logo=tensorflow&logoColor=FF69B4) ![NLP](https://img.shields.io/badge/NLP-F0FFF0?style=for-the-badge&logo=natural-language-processing&logoColor=32CD32) ![Azure](https://img.shields.io/badge/Azure-F0F8FF?style=for-the-badge&logo=microsoftazure&logoColor=4169E1) ![RAG](https://img.shields.io/badge/RAG-F5F0FF?style=for-the-badge&logo=openai&logoColor=9370DB) ![OpenAI](https://img.shields.io/badge/OpenAI-FFF8DC?style=for-the-badge&logo=openai&logoColor=8B4513) ![LangChain](https://img.shields.io/badge/LangChain-F5F5DC?style=for-the-badge&logo=chainlink&logoColor=2F4F4F) ![Java](https://img.shields.io/badge/Java-FFFACD?style=for-the-badge&logo=openjdk&logoColor=FF8C00) ![Spring](https://img.shields.io/badge/Spring-F0FFF0?style=for-the-badge&logo=spring&logoColor=228B22) ![eGovFrame](https://img.shields.io/badge/eGovFrame-E6F3FF?style=for-the-badge&logoColor=4682B4)
 
 
 
@@ -35,8 +35,8 @@
 **링크** [hai.kangwon.ac.kr](https://hai.kangwon.ac.kr) 
 
 
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![React](https://img.shields.io/badge/React-E6F3FF?style=for-the-badge&logo=react&logoColor=4169E1)
+![TypeScript](https://img.shields.io/badge/TypeScript-F0F8FF?style=for-the-badge&logo=typescript&logoColor=1E90FF)
+![Gatsby](https://img.shields.io/badge/Gatsby-F5F0FF?style=for-the-badge&logo=gatsby&logoColor=9370DB)
+![GraphQL](https://img.shields.io/badge/GraphQL-FFF0F5?style=for-the-badge&logo=graphql&logoColor=FF69B4)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-F0F8FF?style=for-the-badge&logo=githubactions&logoColor=4169E1)
