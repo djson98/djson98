@@ -1,26 +1,23 @@
+# Hello! 👋
 
+## Major Projects
 
-
-
-### 강원대학교 AI 민원 분류 시스템
-- **하루 100건 이상 민원 자동 분류·배정**
-- 2024.10 배포, **누적 3만 건** 이상 처리
-- 언론 보도 및 지역지능화센터 창의자율과제(IITP 지원) 우수상
+### Kangwon National University AI Complaint Classification System
+- **Automated classification and routing 100+ daily complaints**
+- Deployed in October 2024, **processed 30,000+ complaints** cumulatively
+- Featured in media and won Excellence Award at Regional Intelligence Innovation Talent Development Project (IITP)
 
 [강원대 컴퓨터공학과 손동주 학생, 'AI 민원 분류 시스템' 개발](https://www.veritas-a.com/news/articleView.html?idxno=531813)
 
 
 
 
+### Kangwon National University Human-AI Interaction Laboratory Website
+- Easy content management for lab members
+- SEO optimized, appears on first page of Google search results
+
+[hai.kangwon.ac.kr](https://hai.kangwon.ac.kr)
 
 
-### 강원대학교 Human-AI Interaction 연구실 홈페이지
-- 쉬운 업데이트 
-- 검색 엔진 최적화, 구글 검색 첫 페이지 위치 
-
-[hai.kangwon.ac.kr](https://hai.kangwon.ac.kr) 
-
----
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=djson)](https://solved.ac/djson)
-
