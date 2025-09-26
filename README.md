@@ -10,10 +10,6 @@
 [강원대 컴퓨터공학과 손동주 학생, 'AI 민원 분류 시스템' 개발](https://www.veritas-a.com/news/articleView.html?idxno=531813)
 
 
-
----
-
-
 ### 강원대학교 Human-AI Interaction 연구실 홈페이지
 - 쉬운 업데이트 
 - 검색 엔진 최적화, 구글 검색 첫 페이지 위치 
