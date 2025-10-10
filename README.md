@@ -10,7 +10,7 @@
 ### Kangwon National University Human-AI Interaction Laboratory Website
 - [hai.kangwon.ac.kr](https://hai.kangwon.ac.kr)
 -  Easy content management for lab members
-- SEO optimized, appears on first page of Google search results
+- SEO optimized, appears on **first page of Google search results**
 - GatsbyJs, React, Typescript, TailwindCSS, GraphQL, GithubActions
 
 ---
