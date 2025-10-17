@@ -4,6 +4,7 @@
 ### Kangwon National University AI Complaint Classification System
 - [강원대 컴퓨터공학과 손동주 학생, 'AI 민원 분류 시스템' 개발](https://www.veritas-a.com/news/articleView.html?idxno=531813)
 - **Automated classification and routing 100+ daily complaints**, **processed 30,000+ complaints** cumulatively
+- After deployment, **the IT Service Team reported improved complaint-handling speed and overall efficiency.**
 - Featured in media and won Excellence Award at Regional Intelligence Innovation Talent Development Project (IITP sponsored)
 - Python, AzureCloud, RAG, Java, Spring, eGovframework
 
